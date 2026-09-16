@@ -1,3 +1,7 @@
+## Parcours français
+
+Consulter le parcours documentaire francophone consacré au client d’exécution Ethereum Reth dans [docs/fr](docs/fr/).
+
 # reth
 
 [![bench status](https://github.com/paradigmxyz/reth/actions/workflows/bench.yml/badge.svg)](https://github.com/paradigmxyz/reth/actions/workflows/bench.yml)
